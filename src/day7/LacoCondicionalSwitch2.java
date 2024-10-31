@@ -57,7 +57,8 @@ public class LacoCondicionalSwitch2 {
 		 System.out.println("\nNome do colaborador: " + nome);
 	     System.out.println("Cargo: " + codigoDoColaborador);
 	     System.out.printf("Salário reajustado: R$ %.2f\n", novoSalario);
-		scanner.close();
+		
+	     scanner.close();
 
 	}
 

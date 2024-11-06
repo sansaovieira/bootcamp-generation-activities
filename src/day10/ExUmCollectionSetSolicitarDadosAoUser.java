@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class CollectionSetSolicitarDadosAoUser {
+public class ExUmCollectionSetSolicitarDadosAoUser {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
